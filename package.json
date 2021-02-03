@@ -1,6 +1,6 @@
 {
-  "name": "with-tailwindcss-emotion",
-  "version": "1.0.0",
+  "name": "next-okta",
+  "version": "0.0.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,6 +9,7 @@
   "dependencies": {
     "@emotion/react": "^11.1.1",
     "@emotion/styled": "11.0.0",
+    "@okta/okta-auth-js": "^4.6.1",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
